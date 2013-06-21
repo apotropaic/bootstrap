@@ -30,9 +30,9 @@ Bootstrap's documentation, included in this repo in the `/docs` directory, is bu
 
 ### Running documentation locally
 
-1. If necessary, [install Jekyll](http://jekyllrb.com/docs/installation).
+1. If necessary, [install Jekyll](http://jekyllrb.com/docs/installation) (requires v1.x).
 2. From the `/bootstrap` directory, run `jekyll serve` in the command line.
-3. Open [http://getbootstrap.dev:9001](http://getbootstrap.dev:9001) in your browser, and voilà.
+3. Open [http://localhost:9001](http://localhost:9001) in your browser, and voilà.
 
 Learn more about using Jekyll by reading their [documentation](http://jekyllrb.com/docs/home/).
 
@@ -76,11 +76,11 @@ Should you encounter problems with installing dependencies or running makefile c
 
 ## Contributing
 
-Please read through our guidelines for contributing to Bootstrap. Included are directions for opening issues, coding standards, and notes on development. 
+Please read through our guidelines for contributing to Bootstrap. Included are directions for opening issues, coding standards, and notes on development.
 
 More over, if your pull request contains JavaScript patches or features, you must include relevant unit tests. All HTML and CSS should conform to the [Code Guide](http://github.com/mdo/code-guide), maintained by [Mark Otto](http://github.com/mdo).
 
-Editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at [http://editorconfig.com](http://editorconfig.com).
+Editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at [http://editorconfig.org](http://editorconfig.org).
 
 
 
